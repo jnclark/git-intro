@@ -1,0 +1,6 @@
+# Avoid binaries, like PDFs
+*.pdf
+
+# You may add other automatically generated files... or anything you
+# want to ignore to this list.  Use * to reference any file with that
+# file extension.  You can also reference files by name exactly.
